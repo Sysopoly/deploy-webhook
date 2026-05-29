@@ -1,0 +1,14 @@
+# Binaries
+/deploy-webhook
+*.exe
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
